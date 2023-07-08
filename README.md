@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -33,7 +34,7 @@
     <div class ="content">
       <h4>Hello, my  name is</h4>
       <h1>PRIYANSHU<span>LANKA</span></h1>
-      <h3>I'm a Web Developer</h3>
+      <h3>I'M AN IT ENGENEER</h3>
       <div class="news-letter">
         <form >
           <input type="email" name="name" id="mail" placeholder="Enter your e-mail">
@@ -52,7 +53,7 @@
         <h2>About Me</h2>
         <h5>Developer and <span>Programmer</span></h5>
         <p>Hello!I AM A UNDERGRADUATE IN INFORMATION TECHNOLOGY AND WANT TO CREATE MY FUTURE IN THE FLIED OF NETWORKING.</p>
-        <button class="button">Let's talk</button>
+        <button class="button">VISION</button>
       </div>
     </div>
   </section>
@@ -65,9 +66,9 @@
     <div class="box">
       <div class="card">
         <i class="fa-solid fa-bars"></i>
-        <h5>Web Development</h5>
+        <h5>SECURITY</h5>
         <div class="pra">
-          <p>Every website should be built with 2 primary goals: Firstly, it must work across all devices. Secondly, it needs to be fast as posible.</p>
+          <p>OUR GOAL IS TO PROVIDE OUR CLIENTS SECURITY.</p>
           <p style="text-align: center;">
             <a class="button" href="#">Read more</a>
           </p>
@@ -76,9 +77,9 @@
 
       <div class="card">
         <i class="fa-regular fa-user"></i>
-        <h5>Web Development</h5>
+        <h5>NETWORKINGt</h5>
         <div class="pra">
-          <p>Every website should be built with 2 primary goals: Firstly, it must work across all devices. Secondly, it needs to be fast as posible.</p>
+          <p>OUR SECOND GOAL IS TO ENSURE THERE ARE NO MORE THREATS IN THE FUTURE.</p>
           <p style="text-align: center;">
             <a class="button" href="#">Read more</a>
           </p>
@@ -115,4 +116,4 @@
     <p class="end"></p>
   </footer>
 </body>
-</html>
+</html>     
